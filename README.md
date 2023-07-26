@@ -1,8 +1,8 @@
-### Hi there 👋
+###  ¡Hey👋! Soy Ivan Sanchez
 
 Soy  Tecnólogo en Desarrollo de Sistemas Informáticos. Cuento con aproximadamente 2 años de experiencia en el mundo de la informática y el desarrollo de software. Desde que descubrí mi pasión por la programación, me he sumergido de lleno en el mundo de la tecnología. Una de mis fortalezas es mi capacidad para asimilar conceptos rápidamente, lo que me permite adaptarme con facilidad y aprovechar las últimas tecnologías y tendencias en el desarrollo de software.
 
-<h3> 🛠 &nbsp;Conocimientos</h3>
+<h3> 🛠 &nbsp;Habilidades</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -20,6 +20,7 @@ Soy  Tecnólogo en Desarrollo de Sistemas Informáticos. Cuento con aproximadame
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
 <!--
 **IvanDeveloperCampus/IvanDeveloperCampus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
