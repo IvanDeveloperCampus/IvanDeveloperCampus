@@ -1,6 +1,6 @@
 ###  ¡Hey👋! Soy Ivan Sanchez
 
-Soy  Tecnólogo en Desarrollo de Sistemas Informáticos. Cuento con aproximadamente 2 años de experiencia en el mundo de la informática y el desarrollo de software. Desde que descubrí mi pasión por la programación, me he sumergido de lleno en el mundo de la tecnología. Una de mis fortalezas es mi capacidad para asimilar conceptos rápidamente, lo que me permite adaptarme con facilidad y aprovechar las últimas tecnologías y tendencias en el desarrollo de software.
+Soy Desarrollador de Software cuento con aproximadamente 2 años de experiencia en el mundo de la informática y el desarrollo de software. Desde que descubrí mi pasión por la programación, me he sumergido de lleno en el mundo de la tecnología. Una de mis fortalezas es mi capacidad para asimilar conceptos rápidamente, lo que me permite adaptarme con facilidad y aprovechar las últimas tecnologías y tendencias en el desarrollo de software.
 
 <h3> 🛠 &nbsp;Habilidades</h3>
 
